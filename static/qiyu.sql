@@ -1,0 +1,24 @@
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('三山四海', '0.2', '12', '恭喜 {} 侠士触发奇遇【三山四海】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('三尺青锋', '0.2', '12', '恭喜 {} 侠士触发奇遇【三尺青锋】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('阴阳两界', '0.2', '12', '恭喜 {} 侠士触发奇遇【阴阳两界】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('塞外宝驹', '0.2', '12', '恭喜 {} 侠士触发奇遇【塞外宝驹】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('济苍生', '0.2', '12', '恭喜 {} 侠士触发奇遇【济苍生】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('黑白路', '0.2', '12', '恭喜 {} 侠士触发奇遇【黑白路】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('生死判', '0.2', '12', '恭喜 {} 侠士触发奇遇【生死判】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('炼狱厨神', '0.2', '12', '恭喜 {} 侠士触发奇遇【炼狱厨神】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('惜往日', '0.2', '12', '恭喜 {} 侠士触发奇遇【惜往日】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('韶华故', '0.2', '12', '恭喜 {} 侠士触发奇遇【韶华故】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('天涯无归', '0.2', '12', '恭喜 {} 侠士触发奇遇【天涯无归】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('清风捕王', '0.2', '12', '恭喜 {} 侠士触发奇遇【清风捕王】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('虎啸山林', '0.2', '12', '恭喜 {} 侠士触发奇遇【虎啸山林】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('护佑苍生', '0.2', '12', '恭喜 {} 侠士触发奇遇【护佑苍生】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('乱世舞姬', '0.2', '12', '恭喜 {} 侠士触发奇遇【乱世舞姬】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('少年行', '0.2', '12', '恭喜 {} 侠士触发奇遇【少年行】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('茶馆奇缘', '0.2', '12', '恭喜 {} 侠士触发奇遇【茶馆奇缘】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('扶摇九天', '0.2', '12', '恭喜 {} 侠士触发奇遇【扶摇九天】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('舞众生', '0.2', '12', '恭喜 {} 侠士触发奇遇【舞众生】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('雪山恩仇', '0.2', '12', '恭喜 {} 侠士触发奇遇【雪山恩仇】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('平生心愿', '0.2', '12', '恭喜 {} 侠士触发奇遇【平生心愿】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('故园风雨', '0.2', '12', '恭喜 {} 侠士触发奇遇【故园风雨】。');
+INSERT INTO QiYu (name, trigger_probability, cooling_period, notice_template)  VALUES ('茶馆悬赏', '0.2', '12', '恭喜 {} 侠士触发奇遇【茶馆悬赏】。');
+
